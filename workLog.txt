@@ -1,0 +1,82 @@
+
+     *  WORK LOG
+     *  ------------------------------------------------------------------------
+     *         - getting started - plan, design, schedule
+     *         - picking the dataset
+     *         - being able to read, store, filter, format dataset
+     *  ------------------------------------------------------------------------
+     *         - creating UI
+     *         - implemented and tested
+     *                  - find exact Recipe method
+     *                  - search Partial term
+     *  ------------------------------------------------------------------------
+     *         - research about servlets/ + tutorials
+     *         - design of pages ?
+     *  ------------------------------------------------------------------------
+     *         - research about database/ + tutorials
+     *  ------------------------------------------------------------------------
+     *         - download mySQL
+     *         - learning/format my data into table
+     *  ------------------------------------------------------------------------
+     *         - debugging database connection
+     *         - database connected from IJ --> MySQL WorkBench
+     *         - SQL commands / Java communication with DB (commands)
+     *  ------------------------------------------------------------------------
+     *         - created simple DB
+     *         - tested my FindRecipe & SearchRecipe(partial) mySQL commands
+     *  ------------------------------------------------------------------------
+     *         - created the main Database with all Recipes
+     *  ------------------------------------------------------------------------
+     *         - implemented basic Server with static Home Page html
+     *         - First Draft design of Homepage --> http://localhost:1024/files/homepage.html
+     *  ------------------------------------------------------------------------
+     *         - First Draft design of Recipe Page --> http://localhost:1024/files/recipe.html
+     *  ------------------------------------------------------------------------
+     *         - Fixed server to display Image
+     *  ------------------------------------------------------------------------
+     *         - Added Handler Logic to Server - File Handler
+     *         - Still single Threaded
+     *  ------------------------------------------------------------------------
+     *         - multithreaded Server
+     *         - added fist draft Search Handler & Find Handler
+     *         - added HTTPRequest & HTTPResponse
+     *  ------------------------------------------------------------------------
+     *         - added picture Search Handler & Find Handler
+     *         - added HomeHandler
+     *         - added fancy submit button
+     *  ------------------------------------------------------------------------
+     *         - first draft Shutdown Handler
+     *         - first draft Login Handler
+     *         - improved Login Page html
+     *  ------------------------------------------------------------------------
+     *         - updated README
+     *         - implemented button on homepage --> (find, search, shutdown)
+     *         - fixed login button (able to get username & password)
+     *         - added redirecting between pages
+     *         - created users table (username & password)
+     *         - JavaDocs
+     *         - config file for database
+     *         - added picture
+     *  ------------------------------------------------------------------------
+     *         - added Landing Handler
+     *         - improved html pages
+     *         - Updated README
+     *  ------------------------------------------------------------------------
+     *         - added Cookies
+     *         - exploring unsplash API
+     *         - check /unsplach API - free version did not give correct
+     *           pictures for searches (was not used at the end)
+     *         - added name of the user to the cookies table
+     *  ------------------------------------------------------------------------
+     *         - fixed keeping track about user
+     *         - added CommingSoonHandler
+     *         - improved visualization of the pages (color, buttons..)
+     *         - updated Readme
+     *         - added unit tests for checking validity of HTML
+     *         - added JavaDocs
+     *  ------------------------------------------------------------------------
+     *
+     *  ------------
+     *  TOTAL HOURS:
+     *      50 ++
+     *  ------------
